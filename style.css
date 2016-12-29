@@ -4,7 +4,7 @@
 /* 1. Body
 ----------------------------------------------------- */
 
-body { font: 90% 'Lucida Grande', Verdana, Geneva, Arial, Helvetica, sans-serif; background: #ffffff; color: #2e2e2e; margin: 2em; padding: 2em; }
+body { background: #ffffff; color: #2e2e2e; margin: 2em; padding: 2em; font-family:'Malgun Gothic'; font-size:10pt;}
 
 
 /* 2. Standard Tags
